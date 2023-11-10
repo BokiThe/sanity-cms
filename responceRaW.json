@@ -1,0 +1,272 @@
+{
+  "_createdAt": "2023-11-10T12:32:22Z",
+  "_id": "0a6c40e5-b1a7-4e15-8b2d-b9f59c061da0",
+  "_rev": "GnQhk2FVK7YGVnwLXtKl7U",
+  "_type": "Article",
+  "comment": "helllo from coomment",
+  "content": [
+    {
+      "_key": "20bb98428c80",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "8a99afc6f33d",
+          "_type": "span",
+          "marks": [],
+          "text": "VEST!: "
+        }
+      ],
+      "markDefs": [],
+      "style": "h1"
+    },
+    {
+      "_key": "c93b6c5af200",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "ec2d408fbecf",
+          "_type": "span",
+          "marks": [],
+          "text": "- U ovoj vesti dobicemo sve moguce slucajeve za "
+        },
+        {
+          "_key": "3502bbb51e00",
+          "_type": "span",
+          "marks": ["6188b78e41bf"],
+          "text": "mobile"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "6188b78e41bf",
+          "_type": "link",
+          "href": "https://developer.apple.com/xcode/swiftui/"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "709fb3f59a28",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "7aca93ae5e63",
+          "_type": "span",
+          "marks": [],
+          "text": ""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "509dbcc588b3",
+      "_type": "image",
+      "asset": {
+        "_ref": "image-43d448574049d3cf14a33bd48d2b29bedccf21a0-313x132-png",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "b790d2950d14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "c80a086a16ff",
+          "_type": "span",
+          "marks": ["strong"],
+          "text": "Tekst koji ide ispod slike je BOLD , "
+        },
+        {
+          "_key": "00174791e510",
+          "_type": "span",
+          "marks": [],
+          "text": "kasnije ide samo jedna rec koja je "
+        },
+        {
+          "_key": "6535b5f1707d",
+          "_type": "span",
+          "marks": ["strong"],
+          "text": "BOLD,  "
+        },
+        {
+          "_key": "f38f5b11c36e",
+          "_type": "span",
+          "marks": [],
+          "text": "pa "
+        },
+        {
+          "_key": "6ad7b4ea3687",
+          "_type": "span",
+          "marks": ["em"],
+          "text": "ITALIC, pa "
+        },
+        {
+          "_key": "872a238dbd63",
+          "_type": "span",
+          "marks": ["underline"],
+          "text": "UNDERLINE"
+        },
+        {
+          "_key": "0a1cf54f1c60",
+          "_type": "span",
+          "marks": [],
+          "text": " , pa "
+        },
+        {
+          "_key": "b98c85e09322",
+          "_type": "span",
+          "marks": ["strike-through"],
+          "text": "STROKE"
+        },
+        {
+          "_key": "967bdc6b831a",
+          "_type": "span",
+          "marks": [],
+          "text": "."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "f268c3dbcaff",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "b9abb173679f",
+          "_type": "span",
+          "marks": [],
+          "text": ""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "88f6107b0b14",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "3311e316b645",
+          "_type": "span",
+          "marks": [],
+          "text": "Novi red koji ce. da ima listu: "
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "fdf26e86cbdf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "4b956f4edbe1",
+          "_type": "span",
+          "marks": [],
+          "text": "Ovo je bulet lista sa "
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "1e7e8535dcdf",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "6a264eecdd3a",
+          "_type": "span",
+          "marks": [],
+          "text": "nekoliko ralicitih"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "1157209b9493",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2d852ddfb2d3",
+          "_type": "span",
+          "marks": [],
+          "text": "bullet-a"
+        }
+      ],
+      "level": 1,
+      "listItem": "bullet",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "4d33c3d8f13c",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e3c0b9547785",
+          "_type": "span",
+          "marks": [],
+          "text": "Sada pravimo listu sa brojevima: "
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "57cf80c7051d",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "62555663d0d0",
+          "_type": "span",
+          "marks": [],
+          "text": "Broj 1"
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "cfa0ce9fa334",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "f8654f111bca",
+          "_type": "span",
+          "marks": [],
+          "text": "broj 2\n"
+        }
+      ],
+      "level": 1,
+      "listItem": "number",
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "featured_image": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-43d448574049d3cf14a33bd48d2b29bedccf21a0-313x132-png",
+      "_type": "reference"
+    }
+  },
+  "header_image": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-43d448574049d3cf14a33bd48d2b29bedccf21a0-313x132-png",
+      "_type": "reference"
+    }
+  },
+  "slot": 1,
+  "title_text": "Neka vest: Ovo je naslov Vesti",
+  "_updatedAt": "2023-11-10T14:17:52.662Z"
+}
